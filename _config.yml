@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Alan Preciado
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
 # description: This is intended to upload my personal and team collaborations. Mostly I'll be working with machine learning-related stuff. Feel free to bookmark this to keep an eye on my project updates
