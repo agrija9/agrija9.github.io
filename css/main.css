@@ -47,3 +47,11 @@ hp  {
 float: left;    
 margin: 0 15px 0 0;
 }
+
+img {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left:0;
+    top:0;
+}
