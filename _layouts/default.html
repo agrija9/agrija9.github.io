@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 	<html>
-		<head>
+		<!--head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
+		</head-->
+
+		{% include head.html %}
+
 		<body>
+			{% include header.html %}
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
@@ -24,5 +28,6 @@
 	        		<li><a href="https://github.com/agrija9">github.com/agrija9</a></li>
 				</ul>
 			</footer>
+			{% include footer.html %}
 		</body>
 	</html>
