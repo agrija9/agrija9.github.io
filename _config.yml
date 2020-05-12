@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Alan's Site"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Alan Preciado Grijalva"
-description              : "An amazing website."
+description              : "Alan's personal website"
 url                      : "https://agrija9.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : agrija9/agrija9.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,51 +95,19 @@ analytics:
 author:
   name             : "Alan Preciado Grijalva"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Testing**"
+  bio              : "University of Applied Sciences Bonn-Rhein-Sieg"
   location         : "Bonn, Germany"
   email            : "agrija9@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:agrija9@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/PreciadoAlan"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://github.com/agrija9/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com.mx/citations?user=qzVATxkAAAAJ&hl=en"
 
 # Reading Files
 include:
@@ -227,7 +195,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jemoji
 
 # Archives
 #  Type
@@ -279,3 +247,19 @@ defaults:
       comments: # true
       share: true
       related: true
+  
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: archive
+      author_profile: true
+  
+  # home
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: archive
+      author_profile: true
