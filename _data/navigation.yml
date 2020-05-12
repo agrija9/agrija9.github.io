@@ -10,5 +10,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title "Resume"
+  - title: "Resume"
     url: hhtps://agrija9.github.io/assets/docs/about/resume.pdf
