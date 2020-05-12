@@ -108,6 +108,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com.mx/citations?user=qzVATxkAAAAJ&hl=en"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/alan-preciado-grijalva-918170117/"
+      icon: "fab fa-fw fa-linked-in"
 
 # Reading Files
 include:
