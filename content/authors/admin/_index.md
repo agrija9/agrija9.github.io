@@ -18,7 +18,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/agrija9
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com.mx/citations?user=qzVATxkAAAAJ&hl=en
   - icon: github
