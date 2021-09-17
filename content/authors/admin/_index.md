@@ -3,39 +3,47 @@ role: Machine Learning Research Assistant
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Learning and Reasoning
+  - Machine Perception
+  - Multi-modal Learning
+  - Self-supervised Learning
+  - Few-shot Learning 
+  - Generative Modeling
+  - AI for Robotics
+
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/agrija9
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.mx/citations?user=qzVATxkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/agrija9
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/alan-preciado-grijalva-918170117/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Applied Sciences Bonn-Rhein-Sieg
+    url: https://www.h-brs.de/en
+
+  - name: German Research Centre for Artificial Intelligence
+    url: https://www.dfki.de/en/web/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    - course: MSc in Intelligent Autonomous Systems
+      institution: University of Applied Sciences Bonn-Rhein-Sieg
+      year: 11/2021
+    - course: BSc in Physics
+      institution: Autonomous University of Baja California
+      year: 01/2018
 superuser: true
 highlight_name: true
 title: Alan Preciado Grijalva
