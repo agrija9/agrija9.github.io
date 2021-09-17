@@ -19,7 +19,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/agrija9
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com.mx/citations?user=qzVATxkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
