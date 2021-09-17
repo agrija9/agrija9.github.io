@@ -1,5 +1,5 @@
 ---
-role: Machine Learning Research Assistant
+role: MSc Student / Research Assistant
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -30,14 +30,10 @@ social:
 organizations:
   - name: University of Applied Sciences Bonn-Rhein-Sieg
     url: https://www.h-brs.de/en
-
   - name: German Research Centre for Artificial Intelligence
     url: https://www.dfki.de/en/web/
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
     - course: MSc in Intelligent Autonomous Systems
       institution: University of Applied Sciences Bonn-Rhein-Sieg
       year: 11/2021
