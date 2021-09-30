@@ -48,7 +48,7 @@ experience:
         
         * Underwater image data collection, processing, labeling 
         * Implementation of neural network models in tensorflow
-        * Underwater image enhancement using mutli-modal and self-supervised learning approaches
+        * Underwater image enhancement via mutli-modal and self-supervised learning
         
   # - title: Professor of Semiconductor Physics
   #   company: University X
