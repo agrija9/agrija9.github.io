@@ -46,7 +46,7 @@ title: Alan Preciado Grijalva
 email: ""
 ---
 
-I am a MSc research assistant at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/) in the [Robotics Innovation Center (RIC)](https://robotik.dfki-bremen.de/de/startseite.html)
+I am a MSc research assistant at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/) in the [Robotics Innovation Center (RIC)](https://robotik.dfki-bremen.de/de/startseite.html), Germany. I work for the [DeeperSense Project](https://www.deepersense.eu/www/), I am in charge of working with underwater sensors for data collection, design and implementation of neural networks to improve the perception of Autonomous Underwater Vehicles (AUVs) and the exploration of multi-modal and self-supervised learning approaches for underwater image data.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
