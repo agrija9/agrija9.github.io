@@ -50,5 +50,8 @@ I am a MSc research assistant at the [German Research Center for Artificial Inte
 
 I work for the [DeeperSense Project](https://www.deepersense.eu/www/), I am in charge of working with underwater sensors for the collection, processing and labeling of real-life underwater image data. I also design and implement neural networks to improve the perception of underwater systems as well as explore the potential of multi-modal and self-supervised learning for further improvements. 
 
+My main interest is to provide solutions to real-life problems through science. Broadly speaking my research spans the fields of computer vision, machine & deep learning, generative modeling, multi-modal & self-supervised learning, with a focus on improving the perception capacities of autonomous systems. 
+
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
