@@ -50,9 +50,11 @@ I am a MSc research assistant at the [German Research Center for Artificial Inte
 
 I work for the [DeeperSense Project](https://www.deepersense.eu/www/), I am in charge of working with underwater sensors for the collection, processing and labeling of real-life underwater image data. I also design and implement neural networks to improve the perception of underwater systems as well as explore the potential of multi-modal and self-supervised learning for further improvements. 
 
-My main interest is to provide solutions to real-life problems through science. Broadly speaking my research spans the fields of computer vision, machine & deep learning, generative modeling, multi-modal & self-supervised learning, with a focus on improving the perception capacities of autonomous systems.
+My main interest is to provide solutions to real-life problems through science. Broadly speaking my research spans the fields of computer vision, generative modeling, machine & deep learning, robotics, with a focus on improving the perception capacities of autonomous systems.
 
-I expect to finish my Master of Science Degree in [Autonomous Systems from Hochschule Bonn-Rhein-Sieg (Germany)](https://www.h-brs.de/en/inf/study/master/autonomous-systems) in November 2021. During my studies I worked as a research assistant at [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html).
+I expect to finish my Master of Science Degree in [Autonomous Systems](https://www.h-brs.de/en/inf/study/master/autonomous-systems) from Hochschule Bonn-Rhein-Sieg (Germany) in November 2021. During my studies I worked as a research assistant at [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html).
+
+I have a BSc in Physics from [Universidad Autonoma de Baja California (Mexico)](http://www.uabc.mx/), I wrote my thesis at the [National Metrology Institute of Germany (PTB)](https://www.ptb.de/cms/en.html) in the field of [Trapped-Ion Quantum Engineering](https://www.quantummetrology.de/equopt/home/).
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
