@@ -23,9 +23,9 @@ twitter: ''
 email: alan.preciado@dfki.de
 # phone: 888 888 88 88
 address:
-  street: Robert-Hooke-Straße 1Germany
+  street: Robert-Hooke-Straße 1
   city: Bremen
-  region: CA
+  region:
   postcode: '28359'
   country: Germany
   country_code: DE
@@ -67,7 +67,6 @@ main_menu:
   highlight_active_link: true
 
 # Localization
-
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
 address_format: en-us
