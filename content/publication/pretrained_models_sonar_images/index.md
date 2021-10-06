@@ -33,7 +33,7 @@ publication_short: OCEANS
 # abstract: Machine learning and neural networks are now ubiquitous in sonar perception, but it lags behind the computer vision field due to the lack of data and pre-trained models specifically for sonar images. In this paper we present the Marine Debris Turntable dataset and produce pre-trained neural networks trained on this dataset, meant to fill the gap of missing pre-trained models for sonar images. We train Resnet 20, MobileNets, DenseNet121, SqueezeNet, MiniXception, and an Autoencoder, over several input image sizes, from 32 x 32 to 96 x 96, on the Marine Debris turntable dataset. We evaluate these models using transfer learning for low-shot classification in the Marine Debris Watertank and another dataset captured using a Gemini 720i sonar. Our results show that in both datasets the pre-trained models produce good features that allow good classification accuracy with low samples (10-30 samples per class). The Gemini dataset validates that the features transfer to other kinds of sonar sensors. We expect that the community benefits from the public release of our pre-trained models and the turntable dataset. 
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper we present the Marine Debris Turntable dataset and produce pre-trained neural networks trained on this dataset, meant to fill the gap of missing pre-trained models for sonar images. 
 
 tags: []
 
