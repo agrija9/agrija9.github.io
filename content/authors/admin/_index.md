@@ -1,7 +1,6 @@
 ---
 role: MSc Student / Research Assistant
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include machine perception, learning and reasoning, robotics and AI.
 interests:
   - Learning and Reasoning
   - Machine Perception
