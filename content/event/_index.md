@@ -1,5 +1,5 @@
 ---
-title: Updates
+title: Recent & Upcoming Events
 cms_exclude: true
 
 # View.
