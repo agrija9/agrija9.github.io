@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Updates'
-subtitle:
+title: Updates
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, event, publication...
