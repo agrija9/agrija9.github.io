@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Alan Preciado Grijalva # Website name
-baseurl: 'https://agrija9.netlify.app/' # Website URL https://agrija9.github.io/
+baseurl: 'https://agrija9.github.io/' # Website URL https://agrija9.github.io/
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
