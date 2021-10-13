@@ -12,7 +12,8 @@ address:
   postcode: 
   country:
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: In this work, we report progress on a comparative evaluation of self-supervised learning and supervised learning algorithms as pre-training methods for sonar images. 
+
 abstract: "Neural networks have shown promising results in sonar
 perception tasks such as object recognition [1], image
 patch matching [2] and image classification [3]. In the
