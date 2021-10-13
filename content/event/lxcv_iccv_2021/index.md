@@ -12,7 +12,7 @@ address:
   postcode: 
   country:
 
-summary: Testing.
+summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Neural networks have shown promising results in sonar
 perception tasks such as object recognition [1], image
 patch matching [2] and image classification [3]. In the
