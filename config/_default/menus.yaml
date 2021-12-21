@@ -18,7 +18,7 @@ main:
     weight: 30
   # - name: Technical Writing
   #  url: '#posts' #posts
-    weight: 40
+  #  weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
