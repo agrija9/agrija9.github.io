@@ -13,11 +13,10 @@ authors:
 # - "Equal contribution"
 
 date: "2020-10-02T00:00:00Z"
-
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-02T00:00:00Z"
+publishDate: "2020-10-02T00:00:00Z"
 
 
 # Publication type.
@@ -30,8 +29,7 @@ publication_types: ["4"]
 publication: Technical Report/Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Department of Computer Science
 publication_short: Technical Report/Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Department of Computer Science
 
-abstract: 
-High-dimensional and multi-variate data from dynamical systems such as turbulent flows and wind
+abstract: High-dimensional and multi-variate data from dynamical systems such as turbulent flows and wind
 turbines can be analyzed with deep learning due to its capacity to learn representations in lower-dimensional
 manifolds. Two challenges of interest arise from data generated from these systems, namely, how to
 anticipate wind turbine failures and how to better understand air flow through car ventilation systems.
@@ -45,7 +43,7 @@ data representations in order to tackle the problems posed by the two dynamical 
 A VAE is a neural network architecture that combines the mechanisms of the standard autoencoder and
 variational bayes. The goal here is to train a neural network to minimize a loss function defined by a
 reconstruction term together with a variational term defined as a Kulback-Leibler (KL) divergence.
-The report discusses the results obtained for the two different data domains$:$ wind turbine time series
+The report discusses the results obtained for the two different data domains, wind turbine time series
 and turbulence data from computational fluid dynamics (CFD) simulations.
 We report on the reconstruction, clustering and unsupervised anomaly detection of wind turbine
 multi-variate time series data using a variant of a VAE called Variational Recurrent Autoencoder (VRAE).
@@ -64,8 +62,7 @@ latent distribution.
 
 # Summary. An optional shortened abstract.
 summary: The report discusses the results obtained for the two different data domains$:$ wind turbine time series
-and turbulence data from computational fluid dynamics (CFD) simulations.
-We report on the reconstruction, clustering and unsupervised anomaly detection of wind turbine
+and turbulence data from computational fluid dynamics (CFD) simulations. We report on the reconstruction, clustering and unsupervised anomaly detection of wind turbine
 multi-variate time series data using a variant of a VAE called Variational Recurrent Autoencoder (VRAE).
 
 
