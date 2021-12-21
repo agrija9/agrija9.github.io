@@ -37,8 +37,7 @@ There are deep neural network architectures that can project data into a lower-d
 with the goal of identifying and understanding patterns that are not distinguishable in the original
 dimensional space. Learning data representations in lower dimensions via non-linear mappings allows one
 to perform data compression, data clustering (for anomaly detection), data reconstruction and synthetic
-data generation.
-In this work, we explore the potential that variational autoencoders (VAE) have to learn low-dimensional
+data generation. In this work, we explore the potential that variational autoencoders (VAE) have to learn low-dimensional
 data representations in order to tackle the problems posed by the two dynamical systems mentioned above.
 A VAE is a neural network architecture that combines the mechanisms of the standard autoencoder and
 variational bayes. The goal here is to train a neural network to minimize a loss function defined by a
@@ -53,7 +52,7 @@ distinguishing between normal and abnormal cases by reducing the dimensionality 
 and projecting it to two dimensions using techniques such as Principal Component Analysis (PCA) and
 t-distributed stochastic neighbor embedding (t-SNE). A set of anomaly scoring methods is applied on top
 of these latent vectors in order to compute unsupervised clustering. We have achieved an accuracy of up
-to 96% with the KM eans + + algorithm.
+to 96 percent with the KMeans++ algorithm.
 We also report the data reconstruction and generation results of two dimensional turbulence slices
 corresponding to CFD simulation of a HVAC air duct. For this, we have trained a Convolutional
 Variational Autoencoder (CVAE). We have found that the model is capable of reconstructing laminar
@@ -61,7 +60,7 @@ flows up to a certain degree of resolution as well generating synthetic turbulen
 latent distribution.
 
 # Summary. An optional shortened abstract.
-summary: The report discusses the results obtained for the two different data domains$:$ wind turbine time series
+summary: The report discusses the results obtained for the two different data domains, wind turbine time series
 and turbulence data from computational fluid dynamics (CFD) simulations. We report on the reconstruction, clustering and unsupervised anomaly detection of wind turbine
 multi-variate time series data using a variant of a VAE called Variational Recurrent Autoencoder (VRAE).
 
