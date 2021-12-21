@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 30
   - name: Technical Writing
-    url: '#posts'
+    url: '#featured' #posts
     weight: 40
   - name: Contact
     url: '#contact'
