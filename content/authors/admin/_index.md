@@ -1,14 +1,13 @@
 ---
-role: MSc Student / Research Assistant
-bio: My research interests include machine perception, learning and reasoning, robotics and AI.
+# role: Machine Learning Research Assistant # MSc Student
+bio: My research interests lie at the intersection of machine learning, optimization, deep learning, and statistical modeling with applications to computer vision, autonomous navigation, and robotics.
 interests:
-  - Learning and Reasoning
   - Machine Perception
   - Multi-modal Learning
   - Self-supervised Learning
-  - Few-shot Learning 
   - Generative Modeling
-  - AI for Robotics
+  - Autonomous Navigation 
+  - Robotic Control
 
 social:
   - icon: envelope
@@ -27,16 +26,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/alan-preciado-grijalva-918170117/
 organizations:
-  - name: University of Applied Sciences Bonn-Rhein-Sieg
+  - name: M.Sc. @ University of Applied Sciences Bonn-Rhein-Sieg
     url: https://www.h-brs.de/en
-  - name: German Research Centre for Artificial Intelligence
+  - name: Researcher @ German Research Centre for Artificial Intelligence
     url: https://www.dfki.de/en/web/
 education:
   courses:
-    - course: MSc in Intelligent Autonomous Systems
+    - course: M.Sc. in Autonomous Systems
       institution: University of Applied Sciences Bonn-Rhein-Sieg
       year: 11/2021
-    - course: BSc in Physics
+    - course: B.Sc. in Physics
       institution: Autonomous University of Baja California
       year: 01/2018
 superuser: true
