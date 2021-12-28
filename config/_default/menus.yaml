@@ -7,15 +7,15 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: News
+    url: '#talks'
+    weight: 20
   - name: Publications
     url: '#featured'
-    weight: 20
+    weight: 30
   # - name: Projects
   #  url: '#projects'
   #  weight: 30
-  - name: News
-    url: '#talks'
-    weight: 30
   - name: Technical Writing
     url: '#posts' #posts
     weight: 40
