@@ -42,4 +42,4 @@ subtitle: ""
   # view: 2
 ---
 
-Add any content here - text, images, videos, galleries - and even HTML code!
+* [10/2021] One poster accepted by [https://www.latinxinai.org/iccv-2021-about](ICCV 2021) (LatinX in CV Workshop)
