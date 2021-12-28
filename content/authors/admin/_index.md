@@ -34,21 +34,19 @@ education:
   courses:
     - course: M.Sc. in Autonomous Systems
       institution: University of Applied Sciences Bonn-Rhein-Sieg
-      year: 11/2021
+      year: 2019 - 2021 # 11/2021
     - course: B.Sc. in Physics
       institution: Autonomous University of Baja California
-      year: 01/2018
+      year: 2013 - 2018 # 01/2018
 superuser: true
 highlight_name: true
 title: Alan Preciado Grijalva
 email: ""
 ---
 
-I am a MSc research assistant at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/) in the [Robotics Innovation Center (RIC)](https://robotik.dfki-bremen.de/de/startseite.html), Germany. 
+I am a machine learning research assistant at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/) in the [Robotics Innovation Center (RIC)](https://robotik.dfki-bremen.de/de/startseite.html), Germany. I work for the [DeeperSense Project](https://www.deepersense.eu/www/), where I design and implement neural networks to improve the perception of underwater systems using multi-modal and self-supervised learning approaches.
 
-I work for the [DeeperSense Project](https://www.deepersense.eu/www/), I am in charge of working with underwater sensors for the collection, processing and labeling of real-life underwater image data. I also design and implement neural networks to improve the perception of underwater systems as well as explore the potential of multi-modal and self-supervised learning for further improvements. 
-
-My main interest is to provide solutions to real-life problems through science. Broadly speaking my research spans the fields of computer vision, generative modeling, machine & deep learning, robotics, with a focus on improving the perception capacities of autonomous systems.
+My main interest is to provide solutions to real-life problems through science. My research spans the fields of computer vision, generative modeling, machine & deep learning, robotics, with a focus on improving the perception capacities of autonomous systems.
 
 I expect to finish my Master of Science Degree in [Autonomous Systems](https://www.h-brs.de/en/inf/study/master/autonomous-systems) from Hochschule Bonn-Rhein-Sieg (Germany) in November 2021. During my studies I worked as a research assistant at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html).
 
