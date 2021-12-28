@@ -13,7 +13,7 @@ main:
   # - name: Projects
   #  url: '#projects'
   #  weight: 30
-  - name: Updates
+  - name: News
     url: '#talks'
     weight: 30
   - name: Technical Writing
