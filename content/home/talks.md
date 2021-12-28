@@ -42,4 +42,8 @@ subtitle: ""
   # view: 2
 ---
 
-* [10/2021] One poster accepted by [https://www.latinxinai.org/iccv-2021-about](ICCV 2021) (LatinX in CV Workshop)
+* [12/2021] Submitted my M.Sc. Thesis to Hochschule Bonn-Rhein-Sieg
+* [10/2021] One poster accepted by [ICCV 2021](https://www.latinxinai.org/iccv-2021-about) (LatinX in CV Workshop)
+* [08/2021] One paper accepted by [Global OCEANS 2021](https://www.global-oceans.org/)
+* [08/2021] One paper accepted by [International Journal on Interactive Design and Manufacturing (IJIDeM)](https://www.springer.com/journal/12008)
+* [03/2019] One paper accepted by [New Journal of Physics](https://iopscience.iop.org/article/10.1088/1367-2630/ab0e46)
