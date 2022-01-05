@@ -45,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1kExl70eXunww9F64kPq7h28cN4oee007/view?usp=sharing'
-url_code: 'https://github.com/agrija9/r-d_project'
+url_pdf: 'https://pub.h-brs.de/frontdoor/index/index/docId/6041' # 'https://drive.google.com/file/d/1kExl70eXunww9F64kPq7h28cN4oee007/view?usp=sharing'
+url_code: 'https://github.com/agrija9/Wind-Turbine-Anomaly-Detection-VRAE'
 url_dataset: ''
 url_poster: ''
 url_project: ''
