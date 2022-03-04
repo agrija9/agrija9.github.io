@@ -42,7 +42,9 @@ subtitle: ""
   # view: 2
 ---
 
-* [12/2021] Submitted my M.Sc. Thesis to Hochschule Bonn-Rhein-Sieg
+* [03/2022] Submitted a paper to CVPR 2022 (LatinX in AI Workshop)
+* [02/2022] Successfully defended my M.Sc. Thesis at the University of Applied Sciences Bonn-Rhein-Sieg
+* [12/2021] Submitted my M.Sc. Thesis to University of Applied Sciences Bonn-Rhein-Sieg
 * [10/2021] One poster accepted by [ICCV 2021](https://www.latinxinai.org/iccv-2021-about) (LatinX in CV Workshop)
 * [08/2021] One paper accepted by [Global OCEANS 2021](https://www.global-oceans.org/)
 * [08/2021] One paper accepted by [International Journal on Interactive Design and Manufacturing (IJIDeM)](https://www.springer.com/journal/12008)
