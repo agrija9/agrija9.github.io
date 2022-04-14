@@ -42,7 +42,7 @@ subtitle: ""
   # view: 2
 ---
 
-* [03/2022] Submitted a paper to [CVPR 2022](https://www.latinxinai.org/cvpr-2022) (LatinX in AI Workshop)
+* [04/2022] One paper accepted by [CVPR 2022 (LatinX in AI Workshop)](https://www.latinxinai.org/cvpr-2022)
 * [02/2022] Successfully defended my M.Sc. Thesis at the University of Applied Sciences Bonn-Rhein-Sieg
 * [12/2021] Submitted my M.Sc. Thesis to University of Applied Sciences Bonn-Rhein-Sieg
 * [10/2021] One poster accepted by [ICCV 2021](https://www.latinxinai.org/iccv-2021-about) (LatinX in CV Workshop)
