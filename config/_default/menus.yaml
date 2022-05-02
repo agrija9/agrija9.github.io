@@ -19,15 +19,15 @@ main:
   - name: Technical Writing
     url: '#posts' #posts
     weight: 40
-  - name: Activites
-    url: '#talks' #posts
-    weight: 50
+  # - name: Activites
+  #   url: '#talks' #posts
+  #   weight: 50
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Resume
     url: uploads/resume.pdf
-    weight: 70
+    weight: 60
