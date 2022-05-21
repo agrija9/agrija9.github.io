@@ -26,10 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/alan-preciado-grijalva-918170117/
 organizations:
-  - name: M.Sc. @ University of Applied Sciences Bonn-Rhein-Sieg
-    url: https://www.h-brs.de/en
-  - name: Researcher @ German Research Centre for Artificial Intelligence
-    url: https://www.dfki.de/en/web/
+  - name: Machine Learning Engineer @ Epirus
+    url: https://www.epirusinc.com/
 education:
   courses:
     - course: M.Sc. in Autonomous Systems
@@ -44,13 +42,10 @@ title: Alan Preciado Grijalva
 email: ""
 ---
 
-I am a machine learning research assistant at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/) in the [Robotics Innovation Center (RIC)](https://robotik.dfki-bremen.de/de/startseite.html), Germany. I work for the [DeeperSense Project](https://www.deepersense.eu/www/), where I design and implement neural networks to improve the perception of underwater systems using multi-modal and self-supervised learning approaches.
+I am a machine learning engineer at Epirus in Torrance, California. I am in charge of the design, implementation and testing of neural networks for FPGA systems with applications to microwave technologies.
 
-<!--My main interest is to provide solutions to real-life problems through science.-->
-<!--My research spans the fields of computer vision, generative modeling, machine & deep learning, robotics, with a focus on improving the perception capacities of autonomous systems.-->
+I obtained my M.Sc. in [Autonomous Systems](https://www.h-brs.de/en/inf/study/master/autonomous-systems) from the University of Applied Sciences Bonn-Rhein-Sieg (Germany) in December 2021. During and after my master studies I was a machine learning research assistant at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/) in the [Robotics Innovation Center (RIC)](https://robotik.dfki-bremen.de/de/startseite.html). I also worked as a machine learning research assistant at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html). I have a B.Sc. in Physics from [Universidad Autonoma de Baja California (Mexico)](http://www.uabc.mx/), I wrote my B.Sc. thesis at the [National Metrology Institute of Germany (PTB)](https://www.ptb.de/cms/en.html) in the field of [Trapped-Ion Quantum Engineering](https://www.quantummetrology.de/equopt/home/).
+
 My research interests lie at the intersection of machine learning, optimization, deep learning, and statistical modeling with applications to computer vision, autonomous navigation, and robotics.
-
-I obtained my M.Sc. in [Autonomous Systems](https://www.h-brs.de/en/inf/study/master/autonomous-systems) from the University of Applied Sciences Bonn-Rhein-Sieg (Germany) in December 2021. During my studies, I worked as a research assistant at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html). I have a B.Sc. in Physics from [Universidad Autonoma de Baja California (Mexico)](http://www.uabc.mx/), I wrote my thesis at the [National Metrology Institute of Germany (PTB)](https://www.ptb.de/cms/en.html) in the field of [Trapped-Ion Quantum Engineering](https://www.quantummetrology.de/equopt/home/).
-
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
