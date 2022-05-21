@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: alan.preciado@dfki.de
+email: alan.preciado@epirusinc.com
 # phone: 888 888 88 88
 address:
-  street: Robert-Hooke-Straße 1
-  city: Bremen
-  region: DE
-  postcode: '28359'
-  country: Germany
-  country_code: DE
+  street:
+  city: Torrance
+  region: California
+  postcode: 
+  country: USA
+  country_code: USA
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
