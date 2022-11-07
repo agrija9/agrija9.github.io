@@ -42,7 +42,9 @@ subtitle: ""
   # view: 2
 ---
 
+* [07/2022] Completed the [NeuroMatch Academy](https://academy.neuromatch.io/about/mission) Deep Learning Program
 * [06/2022] Volunteer at [CVPR 2022](https://cvpr2021.thecvf.com/) LXAI Workshop
+* [05/2022] Started a role as a Machine Learning Engineer at Epirus (Torrance, CA)
 * [04/2022] One paper accepted by [CVPR 2022 (LatinX in AI Workshop)](https://www.latinxinai.org/cvpr-2022)
 * [02/2022] Successfully defended my M.Sc. Thesis at the University of Applied Sciences Bonn-Rhein-Sieg
 * [12/2021] Submitted my M.Sc. Thesis to University of Applied Sciences Bonn-Rhein-Sieg
