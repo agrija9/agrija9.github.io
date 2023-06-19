@@ -42,6 +42,7 @@ subtitle: ""
   # view: 2
 ---
 
+* [06/2023] Attending [International Microwave Symposium (IMS)](https://ims-ieee.org) (AI & ML for Microwaves Workshops)
 * [07/2022] Completed the [NeuroMatch Academy](https://academy.neuromatch.io/about/mission) Deep Learning Program
 * [06/2022] Volunteer at [CVPR 2022](https://cvpr2021.thecvf.com/) LXAI Workshop
 * [05/2022] Started a role as a Machine Learning Engineer at Epirus (Torrance, CA)
